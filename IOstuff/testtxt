@@ -1,0 +1,12 @@
+OK in this video what I want to do is read a poem from a text file and just display it to the console.
+And we're going to use getline to do that.
+So I'm in the section 19 workspace in the read file.
+Underscore three project and what I've done here is I've got a poem already and I created a file called
+poem that text just like we did before and this is Shakespeare's son and 18 poem and you can see it's
+And what I want to do is read each line and display it out to the console.
+Now if we tried to do this with the extraction operator reading one of these words at a time it's much
+12
+34
+56
+78
+90
