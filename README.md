@@ -2,4 +2,4 @@
 collection of c++ code and experiment with syntax and observation
 - it contains observation and usefull shortcut for better C++
 - some what hard to read
-- useful for Moderate programmers
+- useful for Moderate C++ programmers
